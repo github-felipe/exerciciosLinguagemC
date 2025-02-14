@@ -1,1 +1,1 @@
-# exerciciosLinguagemC
+Um repositório que tem como objetivo armazenar a resolução dos exercícios do curso "Algoritmos e Lógica de Programação - O Curso COMPLETO" que estou realizando na plataforma udemy. Mas apenas os exercícios em linguagem C
